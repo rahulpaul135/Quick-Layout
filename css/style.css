@@ -1,0 +1,35 @@
+* { margin: 0%; padding: 0%; }
+header { border-bottom: 1px solid; color: rgb(199, 199, 199); }
+.header_content { width: 90%; margin-left: 5%; overflow: hidden; }
+.logo { width: 20%; float: left; }
+.logo img { width: 180px; }
+nav { width: 30%; float: right; color: black; padding-top: 17px; }
+nav ul { list-style: none; overflow: hidden; }
+nav ul li { float: left; margin-right: 20px; font-size: 18px; }
+.content { width: 60%; margin-left: 20%; text-align: center; }
+.content h1:first-child { margin-top: 50px; font-size: 50px; color: rgb(20, 42, 89); }
+.content h1 { color: rgb(0, 139, 255); font-size: 50px; }
+.content p { margin-top: 25px; font-size: 18px; color: black; }
+.content img { margin-top: 35px; }
+.main_content { overflow: hidden; margin-top: 80px; }
+.left_content { width: 47%; float: left; }
+.left_content h1 { text-align: right; color: red !important; font-size: 45px !important; }
+.left_content p { text-align: right; margin: 8px; }
+.right_content { float: right; width: 47%; }
+.right_content h1 { text-align: left; font-size: 47px !important; }
+.feature {width: 90%;margin: 120px auto;overflow: hidden;}
+.feature_one { width: 28%; float: left; text-align: center; background-color: rgb(254, 236, 236); padding: 50px 16px; min-height: 290px; }
+.feature_one img { width: 99%; }
+.feature_one h4 { text-align: left; color: rgb(20, 42, 89); }
+.feature_one p { text-align: left; }
+.feature_two { width: 28%; float: left; margin-left: 4.1%; text-align: center; background-color: rgb(236, 248, 244); padding: 50px 16px; }
+.feature_two img { }
+.feature_two h4 { text-align: left; color: rgb(20, 42, 89); }
+.feature_two p { text-align: left; }
+.feature_three { width: 28%; float: right; text-align: center; background-color: rgb(255, 248, 232); padding: 50px 16px; min-height: 290px; }
+.feature_three img { width: 78%; }
+.feature_three h4 { text-align: left; color: rgb(20, 42, 89); }
+.feature_three p { text-align: left; }
+.footer {background-color: rgb(0, 138, 255);padding: 20px;text-align: center;}
+.footer p { color: rgb(236, 236, 236); display: inline; }
+.footer h5 {color: white;letter-spacing: 4px;display: inline;margin: 0 8px;}
